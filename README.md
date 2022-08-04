@@ -1,5 +1,4 @@
 # epam_final_project
-# epam_final_project
 final project
 after creation the ec2 instance from terraform 
 connect the ec2 instance and
